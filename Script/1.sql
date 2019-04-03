@@ -1,3 +1,4 @@
+--Sistema
 -- 2. Para obtener campos por vistas de SIAGIE 
 use siagie2_20 --<--PONER NOMBRE DE LA BASE DE DATOS DE SIAGIE QA
 go
